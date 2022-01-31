@@ -5,8 +5,15 @@ Selamat datang di repo linux command. Repo ini saya buat untuk menjelaskan secar
 #mkdir
 command mkdir digunakan untuk membuat sebuah directory di dalam directory saat ini
 
-sample of use:
-mkdir (name of directory)
+contoh penggunaan:
+mkdir (nama directory)
 mkdir folder
 
 maka outputnya adalah directory bernama "folder" terbuat dengan lokasi directory-nya berada di directory tempat mengetik command tersebut.
+
+#cd
+command cd digunakan untuk mengubah directory di command line
+
+contoh penggunaan:
+cd .. (untuk pindah ke directory selanjutnya)
+cd etc/a (untuk pindah ke directory a yang berada di etc)
