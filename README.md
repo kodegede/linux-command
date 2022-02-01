@@ -17,3 +17,10 @@ command cd digunakan untuk mengubah directory di command line
 contoh penggunaan:
 cd .. (untuk pindah ke directory selanjutnya)
 cd etc/a (untuk pindah ke directory a yang berada di etc)
+
+#rm
+command rm digunakan untuk menghapus suatu file atau directory
+
+contoh penggunaan:
+rm etc/a (untuk menghapus directory "a" yang berada di etc)
+rm etc/a.tf (untuk menghapus file bernama "a.tf" yang berada di etc)
